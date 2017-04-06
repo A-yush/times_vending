@@ -1,0 +1,24 @@
+.tb{
+
+	background:linear-gradient(white, #e7d5b5);  
+	
+}
+.cap{
+	font-size: 20px;
+	font-weight: bold;
+	font color: #6b412b;
+	
+}
+#tbt{
+	font-style: italic;
+}
+/*body{
+	overflow-x: hidden;
+}*/
+#customs{
+	margin:0px 30px;
+}
+/*.bread{
+	margin:0px 110px;
+	width:84%;
+}*/

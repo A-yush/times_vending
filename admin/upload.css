@@ -1,0 +1,14 @@
+form{
+	width:60%;
+	margin:250px;
+}
+body{
+	background-image: url('../images/upload_bg.png');
+	overflow-y: hidden;
+}
+h2{
+	background-color:grey;
+	font-size: 22px;
+	width:225px;
+	opacity: 0.5;
+}
